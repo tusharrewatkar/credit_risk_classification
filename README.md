@@ -9,11 +9,11 @@ Requirements
     Sklearn
     Matplotlib
 
-Data
+# Data
 
 The data used for this project is the "Credit Risk" dataset which can be obtained from Kaggle.
 
-Conclusion
+# Conclusion
 
 The results of this project can be used as a reference for financial institutions to make informed decisions about loan approvals and minimize the risk of default.
 
